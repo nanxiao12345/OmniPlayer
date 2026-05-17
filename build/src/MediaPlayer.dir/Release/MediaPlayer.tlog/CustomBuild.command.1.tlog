@@ -1,0 +1,20 @@
+^F:\OMNIPLAYER\RESOURCES\RESOURCES.QRC
+setlocal
+E:\DevTool\QT\6.11.0\msvc2022_64\bin\rcc.exe --no-zstd --name resources --output F:/OmniPlayer/build/src/qrc_resources.cpp F:/OmniPlayer/resources/resources.qrc
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^F:\OMNIPLAYER\SRC\CMAKELISTS.TXT
+setlocal
+E:\DevTool\CMake\bin\cmake.exe -SF:/OmniPlayer -BF:/OmniPlayer/build --check-stamp-file F:/OmniPlayer/build/src/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

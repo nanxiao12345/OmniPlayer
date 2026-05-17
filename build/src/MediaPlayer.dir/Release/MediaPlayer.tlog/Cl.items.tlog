@@ -1,0 +1,15 @@
+F:\OmniPlayer\src\main.cpp;F:\OmniPlayer\build\src\MediaPlayer.dir\Release\main.obj
+F:\OmniPlayer\src\core\PacketQueue.cpp;F:\OmniPlayer\build\src\MediaPlayer.dir\Release\PacketQueue.obj
+F:\OmniPlayer\src\core\FrameQueue.cpp;F:\OmniPlayer\build\src\MediaPlayer.dir\Release\FrameQueue.obj
+F:\OmniPlayer\src\core\Clock.cpp;F:\OmniPlayer\build\src\MediaPlayer.dir\Release\Clock.obj
+F:\OmniPlayer\src\core\Demuxer.cpp;F:\OmniPlayer\build\src\MediaPlayer.dir\Release\Demuxer.obj
+F:\OmniPlayer\src\core\AudioDecoder.cpp;F:\OmniPlayer\build\src\MediaPlayer.dir\Release\AudioDecoder.obj
+F:\OmniPlayer\src\core\VideoDecoder.cpp;F:\OmniPlayer\build\src\MediaPlayer.dir\Release\VideoDecoder.obj
+F:\OmniPlayer\src\core\AudioOutput.cpp;F:\OmniPlayer\build\src\MediaPlayer.dir\Release\AudioOutput.obj
+F:\OmniPlayer\src\core\VideoRenderer.cpp;F:\OmniPlayer\build\src\MediaPlayer.dir\Release\VideoRenderer.obj
+F:\OmniPlayer\src\core\PlayerCore.cpp;F:\OmniPlayer\build\src\MediaPlayer.dir\Release\PlayerCore.obj
+F:\OmniPlayer\src\ui\MainWindow.cpp;F:\OmniPlayer\build\src\MediaPlayer.dir\Release\MainWindow.obj
+F:\OmniPlayer\src\ui\VideoWidget.cpp;F:\OmniPlayer\build\src\MediaPlayer.dir\Release\VideoWidget.obj
+F:\OmniPlayer\src\ui\ControlBar.cpp;F:\OmniPlayer\build\src\MediaPlayer.dir\Release\ControlBar.obj
+F:\OmniPlayer\build\src\qrc_resources.cpp;F:\OmniPlayer\build\src\MediaPlayer.dir\Release\qrc_resources.obj
+F:\OmniPlayer\build\src\MediaPlayer_autogen\mocs_compilation_Release.cpp;F:\OmniPlayer\build\src\MediaPlayer.dir\Release\mocs_compilation_Release.obj

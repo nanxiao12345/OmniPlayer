@@ -1,0 +1,3 @@
+set(__QT_DEPLOY_TARGET_MediaPlayer_FILE F:/OmniPlayer/build/src/MinSizeRel/MediaPlayer.exe)
+set(__QT_DEPLOY_TARGET_MediaPlayer_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_MediaPlayer_RUNTIME_DLLS E:/DevTool/QT/6.11.0/msvc2022_64/bin/Qt6Multimedia.dll;E:/DevTool/QT/6.11.0/msvc2022_64/bin/Qt6OpenGLWidgets.dll;E:/DevTool/QT/6.11.0/msvc2022_64/bin/Qt6Network.dll;E:/DevTool/QT/6.11.0/msvc2022_64/bin/Qt6Concurrent.dll;E:/DevTool/QT/6.11.0/msvc2022_64/bin/Qt6Widgets.dll;E:/DevTool/QT/6.11.0/msvc2022_64/bin/Qt6OpenGL.dll;E:/DevTool/QT/6.11.0/msvc2022_64/bin/Qt6Gui.dll;E:/DevTool/QT/6.11.0/msvc2022_64/bin/Qt6Core.dll)
