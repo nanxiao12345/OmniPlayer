@@ -1,3 +1,0 @@
-F:/OmniPlayer/build/CMakeFiles/ALL_BUILD.dir
-F:/OmniPlayer/build/CMakeFiles/ZERO_CHECK.dir
-F:/OmniPlayer/build/src/CMakeFiles/MediaPlayer.dir

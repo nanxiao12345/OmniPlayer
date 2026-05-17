@@ -1,8 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"F:/OmniPlayer/build/cmake_install.cmake",
-		"F:/OmniPlayer/build/src/cmake_install.cmake"
-	],
-	"Parallel" : false
-}
